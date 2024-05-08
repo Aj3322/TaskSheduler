@@ -50,5 +50,4 @@ TaskScheduler is a simple Android app for managing tasks with priority. It allow
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Author
-
 Ajay Kumar
